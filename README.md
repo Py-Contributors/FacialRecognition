@@ -1,6 +1,3 @@
-# Face_Recognition_using_encoding
-Face Recongition using face_recognition module and face encoding in Python
-
 <p align="center">
   <a href="https://github.com/codePerfectPlus/Face_Recognition_using_encoding"><img src="https://capsule-render.vercel.app/api?type=rect&color=009ACD&height=100&section=header&text=FaceRecognition&fontSize=60%&fontColor=ffffff" alt="website title image"></a>
   <h2 align="center">👉 Face Recongition using face_recognition module and face encoding in Python 👈</h2>
