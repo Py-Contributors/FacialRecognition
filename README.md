@@ -5,9 +5,9 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3.8.5-lightgrey?style=for-the-badge" alt="repo language">
-<a href="https://github.com/codePerfectPlus/Face_Recognition_using_encoding/stargazers"><img src="https://img.shields.io/github/stars/codePerfectPlus/Face_Recognition_using_encoding?style=for-the-badge" alt="github stars"></a>
-<a href="https://github.com/codePerfectPlus/Face_Recognition_using_encoding/network/members"><img src="https://img.shields.io/github/forks/codePerfectPlus/Face_Recognition_using_encoding?style=for-the-badge" alt="github forks"></a>
-<img src="https://img.shields.io/github/languages/code-size/codePerfectPlus/Face_Recognition_using_encoding?style=for-the-badge" alt="code size">
+<a href="https://github.com/codePerfectPlus/FacailRecognition/stargazers"><img src="https://img.shields.io/github/stars/codePerfectPlus/FacailRecognition?style=for-the-badge" alt="github stars"></a>
+<a href="https://github.com/codePerfectPlus/FacailRecognition/network/members"><img src="https://img.shields.io/github/forks/codePerfectPlus/FacailRecognition?style=for-the-badge" alt="github forks"></a>
+<img src="https://img.shields.io/github/languages/code-size/codePerfectPlus/FacailRecognition?style=for-the-badge" alt="code size">
 
 ## Usgaes
 
