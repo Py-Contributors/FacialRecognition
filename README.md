@@ -11,9 +11,15 @@
 
 ## Usgaes
 
-1. Add Your Image in `Images` folder. exmaple >> name.jpeg
+1.Git clone the Repository
 
-2. Install the requirements file
+```bash
+git clone https://github.com/codePerfectPlus/FacialRecognition
+```
+
+2.Add Your Image in `Images` folder. exmaple >> name.jpeg
+
+3.Install the requirements file
 
 ```bash
 # windows 
@@ -29,7 +35,7 @@ source frenv/bin/activate
 python -m pip install -r requirements.txt
 ```
 
-3. Run the Script
+4.Run the Script
 
 ```bash
 python FaceRec.py
