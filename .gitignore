@@ -128,3 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 /newenv
+*.jpg
+face_encodings

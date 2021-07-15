@@ -11,9 +11,9 @@
 
 ## Usgaes
 
-1. Add Your Image in `Images` folder. exmaple >> name.jpeg
+### Add Your Image in `Images` folder. exmaple >> name.jpeg
 
-2. Install the requirements file
+### Install the requirements file
 
 ```bash
 # windows 
@@ -29,13 +29,15 @@ source frenv/bin/activate
 python -m pip install -r requirements.txt
 ```
 
-3. Run the Script
+### Run the Script
 
 ```bash
-python FaceRec.py
+python FaceRec.py train # to extract encoding
+python FaceRec.py run # to run face recognition
 ```
 
 NOTE:-
+
 ```bash
 # incase installtation stuck on dlib
 python -m pip install dlib -vvv 
